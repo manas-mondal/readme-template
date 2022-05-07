@@ -7,7 +7,7 @@ This is second line
 
 # Manasss Mondal
 
-## Manasss Mondal
+## Manas Mondal
 
 ### Manas Mondal
 
