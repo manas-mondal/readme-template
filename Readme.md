@@ -1,11 +1,11 @@
 <!--markdown tutorial-->
 
-Manass Mondal<br/>
+Manas Mondal<br/>
 This is second line
 
 ---
 
-# Manasss Mondal
+# Manas Mondal
 
 ## Manas Mondal
 
