@@ -1,6 +1,6 @@
 <!--markdown tutorial-->
 
-Manas Mondal<br/>
+Manass Mondal<br/>
 This is second line
 
 ---
